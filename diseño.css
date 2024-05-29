@@ -3,7 +3,8 @@
 }
 
 nav{
-    position: fixed right;
+    position: fixed;
+    
     background-color: rgb(110, 110, 110);
     color: whitesmoke;
     height: 50px;
@@ -12,7 +13,7 @@ nav{
     background: rgb(38,0,65);
 background: linear-gradient(90deg, rgba(38,0,65,1) 0%, rgba(87,19,143,0.9023984593837535) 75%, rgba(192,0,255,1) 100%);
 color: azure;
-height: 400px;
+height: 300px;
 }
 .sobre{
     text-align: left;
