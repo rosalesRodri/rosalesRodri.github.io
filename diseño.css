@@ -3,6 +3,7 @@
 }
 
 nav{
+    position: fixed right;
     background-color: rgb(110, 110, 110);
     color: whitesmoke;
     height: 50px;
