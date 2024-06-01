@@ -2,9 +2,9 @@
     background-color: black;
 }
 
-nav{
+header{
     position: fixed;
-    
+    position: top;
     background-color: rgb(110, 110, 110);
     color: whitesmoke;
     height: 50px;
