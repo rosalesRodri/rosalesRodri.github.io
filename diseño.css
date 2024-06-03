@@ -51,6 +51,6 @@ height: 300px;
 
 .boton{
 border-color:  black;
-    background: rgb(131,58,180);
+    background: rgb(26, 36, 122);
 background: linear-gradient(90deg, rgb(17, 11, 77) 0%, rgb(20, 46, 94) 50%, rgb(14, 89, 99) 100%);
 }
